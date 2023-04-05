@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "생체인증보안week2",
+			"path": "."
+		},
+		{
+			"name": "lfw",
+			"path": "../../Downloads/lfw"
+		}
+	],
+	"settings": {}
+}
